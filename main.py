@@ -1,1 +1,2 @@
-print("hi")
+a = input()
+print(a)
